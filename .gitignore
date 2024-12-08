@@ -98,4 +98,4 @@ data/**/*.csv
 # Notebooks
 # notebooks/*
 
-.poetry.lock
+poetry.lock
