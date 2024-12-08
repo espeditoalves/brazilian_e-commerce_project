@@ -12,6 +12,8 @@ python = "^3.9"
 hydra-core = "^1.1.1"
 pandas = "^2.2.3"
 matplotlib = "^3.9.3"
+sqlalchemy = "^2.0.36"
+psycopg2-binary = "^2.9.10"
 
 [tool.poetry.dev-dependencies]
 pdoc3 = "^0.10.0"
