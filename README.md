@@ -26,7 +26,7 @@ Link para baixar o banco de dados: [Kaggle - Brazilian E-commerce Data](https://
 
     ```bash
     # Após pegar o nome do container com docker ps
-    brazilian_e-commerce_project-ambiente_exploratorio-1 bash
+    docker exec -it brazilian_e-commerce_project-ambiente_exploratorio-1 bash
     ```
 
 4. **Iniciar os container\serviços já existentes definidos no arquivo `docker-compose.yml`:** `docker-compose start`
